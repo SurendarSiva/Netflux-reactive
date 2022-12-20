@@ -1,0 +1,4 @@
+com\sfguru\reactive\netflux\repositories\MovieRepository.class
+com\sfguru\reactive\netflux\bootstrap\InitMovies.class
+com\sfguru\reactive\netflux\NetfluxApplication.class
+com\sfguru\reactive\netflux\domain\Movie.class
